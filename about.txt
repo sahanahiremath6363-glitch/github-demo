@@ -1,17 +1,18 @@
+AI resume analyser:
+resume - pythond developer.backend
 
-Password Manager Program
-Uses:
-1- dictionary
-2- loops
-3- conditional
-4- module: random
-5- file handling
+python, flask, database tidb, openai
 
-website : Password
+User login/signup
+dashboard
 
-random module
-file read/write
-real world
+resume pdf/docx
+upload - Data_Analyst.pdf
 
------------------------------------------
+Role: I want to become a backend engineer
 
+Tool: Resume analyse + Role
+Skills:
+New skills:
+Interview:
+Project:
