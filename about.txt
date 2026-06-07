@@ -1,0 +1,45 @@
+conditional - logic implementation
+loops - menu system
+dictionary - store data
+
+Teacher:
+1- add student
+2- view all students
+3- check result
+4- exit
+
+--------------------------------------------
+Password Manager Program
+Uses:
+1- dictionary
+2- loops
+3- conditional
+4- module: random
+5- file handling
+
+website : Password
+
+random module
+file read/write
+real world
+
+-----------------------------------------
+
+AI resume analyser:
+resume - pythond developer.backend
+
+python, flask, database tidb, openai
+
+User login/signup
+dashboard
+
+resume pdf/docx
+upload - Data_Analyst.pdf
+
+Role: I want to become a backend engineer
+
+Tool: Resume analyse + Role
+Skills:
+New skills:
+Interview:
+Project:
